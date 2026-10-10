@@ -3,7 +3,7 @@
     {
       "version": "0.2.0",
       "build": 2,
-      "url": "https://github.com/ProFusion-Video/TurboWrangler-releases/releases/download/v0.2.0/TurboWrangler-0.2.0.zip",
+      "url": "https://github.com/ProFusion-Video/ProFusion-Offload-releases/releases/download/v0.2.0/ProFusion-Offload-0.2.0.zip",
       "sha256": "f54bf209a6b1be0e6fd76dcdb59c3bcbcb1ef6a951a7ac84ab6c267496f747c7",
       "size": 1753140,
       "notes": "First test release: offload with checksum verification, Library, reports, feedback and update checks.",
