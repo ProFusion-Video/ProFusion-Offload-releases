@@ -9,6 +9,16 @@
       "notes": "First test release: offload with checksum verification, Library, reports, feedback and update checks.",
       "releaseDate": "2026-10-10T20:53:50Z",
       "minimumSystemVersion": "14.0"
+    },
+    {
+      "version": "0.3.0",
+      "build": 3,
+      "url": "https://github.com/ProFusion-Video/ProFusion-Offload-releases/releases/download/v0.3.0/ProFusion-Offload-0.3.0.zip",
+      "sha256": "320a2bf887dc6d30650fba4e9389c16cb64188dd3a04da84a31e33bddc0a5bf3",
+      "size": 2881122,
+      "notes": "Licensing with a free 7-day trial, new app icon, first-launch tour, roll auto-filled from clip names, one-click feedback that needs no mail app, and interrupted-offload recovery.",
+      "releaseDate": "2026-10-11T19:41:54Z",
+      "minimumSystemVersion": "14.0"
     }
   ]
 }
